@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2014.3 (64-bit)
+# SW Build 1034051 on Fri Oct  3 17:14:12 MDT 2014
+# IP Build 1028902 on Fri Sep 26 17:35:13 MDT 2014
+# Start of session at: Sun May 10 16:56:17 2015
+# Process ID: 4480
+# Log file: C:/Users/Mikel/Dropbox/School/EE 214/Project 6/Project 6.3/VGA_Display_controller/vivado.log
+# Journal file: C:/Users/Mikel/Dropbox/School/EE 214/Project 6/Project 6.3/VGA_Display_controller\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Mikel/Dropbox/School/EE 214/Project 6/Project 6.3/VGA_Display_controller/VGA_Display_controller.xpr}
+INFO: [Project 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/Mikel/Dropbox/School/EE 214/Project 6/Project 6.3/VGA_Display_controller'
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'X:/Xilinx/Vivado/2014.3/data/ip'.
+open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:11 . Memory (MB): peak = 706.676 ; gain = 174.285
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun May 10 16:57:00 2015...

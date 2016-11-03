@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Tue Dec 15 13:06:23 2015
+# Process ID: 10576
+# Log file: C:/Users/Mikel/OneDrive/School/EE 324/Project_2/PS2_Controller/vivado.log
+# Journal file: C:/Users/Mikel/OneDrive/School/EE 324/Project_2/PS2_Controller\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Mikel/OneDrive/School/EE 324/Project_2/PS2_Controller/PS2_Controller.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/mskreen.NI/OneDrive/School/EE 324/PS2_Controller' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'X:/Xilinx/Vivado/2015.1/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Dec 15 13:06:53 2015...
